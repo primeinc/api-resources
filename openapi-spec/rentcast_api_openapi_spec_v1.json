@@ -2234,7 +2234,6 @@
             "description": "The type of the property. See [explanation of property types](https://developers.rentcast.io/reference/property-types)",
             "schema": {
               "type": "string",
-              "default": "",
               "enum": [
                 "Single Family",
                 "Condo",
@@ -2727,7 +2726,6 @@
             "description": "The type of the property. See [explanation of property types](https://developers.rentcast.io/reference/property-types)",
             "schema": {
               "type": "string",
-              "default": "",
               "enum": [
                 "Single Family",
                 "Condo",
